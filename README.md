@@ -33,4 +33,4 @@
 - There are 120051 Females & 179973 male employees in the company. 
 !https://github.com/PBhardwaj1980/sql-challenge/blob/main/Images/image-9.png
 - Department wise emplyee status. Development department has the  highest number of employees 85707 & Finance has the lowest number of employees 17346.
-!https://github.com/PBhardwaj1980/sql-challenge/blob/main/Images/image-10.png
+https://github.com/PBhardwaj1980/sql-challenge/blob/main/Images/image-10.png
