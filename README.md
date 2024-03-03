@@ -10,9 +10,7 @@
 
 ## Data Analysis
 - Use of join between tables to produce outcome of employee number, last name, first name, sex, and salary of each employee.
-
-https://github.com/PBhardwaj1980/sql-challenge/blob/a6d0545583e3ec9b9e0564e2e61e5056fa4e278d/Images/image-1.png
-
+!https://github.com/PBhardwaj1980/sql-challenge/edit/main/Images/image-1.png
 - Use of select query and like condition to produce employees employed during year 1986.
 !(https://github.com/PBhardwaj1980/sql-challenge/blob/main/Images/image-2.png)
 
