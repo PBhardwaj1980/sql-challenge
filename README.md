@@ -15,10 +15,10 @@
 
 
 - Use of select query and like condition to produce employees employed during year 1986.
-![DA2](image-2.png)
+![[DA2](image-2.png)](https://github.com/PBhardwaj1980/sql-challenge/blob/main/Images/image-2.png)
 
 - Use of join between three tables to produce data related to emplyee Name, Salary,departmengt number and department Name.
-![DA3](image-4.png) ![DA4](image-3.png)
+![[DA3](image-4.png) ![DA4](image-3.png)](https://github.com/PBhardwaj1980/sql-challenge/blob/main/Images/image-3.png)
 
 - Use of 2 Select query and two conditions on first name and last name.
 ![DA5](image-5.png)
